@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/L_FG_Assets_Pack_Lite/Demo/Demo6.unity
+  isLoaded: 1
+  isActive: 1
